@@ -15,4 +15,4 @@ spec:
         - name: myonlineapp-container
           image: neharika/nginx
           ports:
-            - containerPort: 80
+          - containerPort: 80
